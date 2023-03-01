@@ -1,0 +1,26 @@
+{
+  "name": "Nguyễn Đạt",
+  "ID": "100057735612451",
+  "pet": [
+    {
+      "name": "Beedrill",
+      "type": "Bug",
+      "HP": "61.8",
+      "Attack": 85.5,
+      "Defense": 38,
+      "Speed": 71.25,
+      "coins": 25650,
+      "skill": [
+        "Swarm",
+        "Sniper"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/015.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 1,
+    "draw": 0
+  }
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "name_one": "",
+        "ID_one": "",
+        "name_two": "",
+        "ID_two": "",
+        "status": true,
+        "data": {
+            "days": "08:11:14 11/07/2022",
+            "countDays": 46,
+            "point": 0,
+            "daily": null,
+            "timestamp": 1657545074570
+        }
+    }
+]

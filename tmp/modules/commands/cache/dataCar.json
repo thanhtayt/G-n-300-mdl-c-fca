@@ -1,0 +1,187 @@
+{
+    "100032212041503": {
+        "car": [
+            {
+                "machXe": 2,
+                "locNhot": 2,
+                "bugi": 2,
+                "locGio": 1,
+                "name": "CBR-650R",
+                "speed": 145
+            },
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Aprilia-RSV4",
+                "speed": 100
+            }
+        ],
+        "cup": 3
+    },
+    "100049395483074": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "CBR-650R",
+                "speed": 100
+            },
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Aprilia-RSV4",
+                "speed": 100
+            }
+        ],
+        "cup": 1
+    },
+    "100041184706360": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "CBR-650R",
+                "speed": 100
+            },
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Kawasaki-Z1000",
+                "speed": 100
+            }
+        ],
+        "cup": 0
+    },
+    "100049206701051": {
+        "car": [],
+        "cup": 0
+    },
+    "100047891359999": {
+        "car": [],
+        "cup": 0
+    },
+    "100050994379922": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Yamaha-YZF-R1",
+                "speed": 100
+            }
+        ],
+        "cup": 0
+    },
+    "100057735612451": {
+        "car": [],
+        "cup": 0
+    },
+    "100001631702617": {
+        "car": [],
+        "cup": 0
+    },
+    "100082075059054": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "CBR-650R",
+                "speed": 100
+            }
+        ],
+        "cup": 0
+    },
+    "100049330453784": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "CBR-650R",
+                "speed": 100
+            }
+        ],
+        "cup": 0
+    },
+    "100036263104705": {
+        "car": [],
+        "cup": 0
+    },
+    "100012842321236": {
+        "car": [],
+        "cup": 0
+    },
+    "100028381133150": {
+        "car": [],
+        "cup": 0
+    },
+    "100041249782362": {
+        "car": [],
+        "cup": 0
+    },
+    "100066839097218": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "CBR-650R",
+                "speed": 100
+            }
+        ],
+        "cup": 0
+    },
+    "100002994091124": {
+        "car": [],
+        "cup": 0
+    },
+    "100060465465854": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Aprilia-RSV4",
+                "speed": 100
+            }
+        ],
+        "cup": 0
+    },
+    "100056558868866": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Ducati-Monster-795",
+                "speed": 100
+            }
+        ],
+        "cup": 0
+    },
+    "100070756235161": {
+        "car": [],
+        "cup": 0
+    },
+    "100070397002243": {
+        "car": [],
+        "cup": 0
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Trần Khương",
+    "ID": "100048505611574",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "5/12/2022, 7:37:36 PM"
+}

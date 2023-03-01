@@ -1,0 +1,25 @@
+{
+  "name": "Minh Hải",
+  "ID": "100052958136863",
+  "pet": [
+    {
+      "name": "Kyogre",
+      "type": "Water",
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 90,
+      "Speed": 90,
+      "coins": 38000,
+      "skill": [
+        "Drizzle"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/382.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

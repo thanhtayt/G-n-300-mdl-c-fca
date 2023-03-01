@@ -1,0 +1,41 @@
+{
+  "name": "An Khánh",
+  "ID": "100007211387094",
+  "pet": [
+    {
+      "name": "Charizard",
+      "type": "Fire",
+      "HP": "74.1",
+      "Attack": 79.8,
+      "Defense": 74.1,
+      "Speed": 95,
+      "coins": 32300,
+      "skill": [
+        "Blaze",
+        "Solar Power"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/006.png"
+    },
+    {
+      "name": "Lycanroc",
+      "type": "Rock",
+      "HP": "71.3",
+      "Attack": 109.25,
+      "Defense": 61.75,
+      "Speed": 106.4,
+      "coins": 34865,
+      "skill": [
+        "Keen Eye",
+        "Sand Rush",
+        "Steadfast"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/745.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 2,
+    "draw": 2
+  }
+}

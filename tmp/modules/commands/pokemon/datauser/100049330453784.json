@@ -1,0 +1,41 @@
+{
+  "name": "Nguyễn Đức Thiện",
+  "ID": "100049330453784",
+  "pet": [
+    {
+      "name": "Donphan",
+      "type": "Ground",
+      "HP": "135.0",
+      "Attack": "180.0",
+      "Defense": "180.0",
+      "Speed": "75.0",
+      "skill": [
+        "Sturdy",
+        "Sand Veil"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/232.png"
+    },
+    {
+      "name": "Bunnelby",
+      "type": "Normal",
+      "HP": "38.0",
+      "Attack": "36.0",
+      "Defense": "38.0",
+      "Speed": "57.0",
+      "skill": [
+        "Pickup",
+        "Cheek Pouch",
+        "Huge Power"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/659.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}
